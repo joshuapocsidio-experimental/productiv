@@ -10,5 +10,9 @@
   
   Photos below are current state of the app:
   
+  ## Sign In
+  ![signindemo](https://github.com/joshuapocsidio/productiv/blob/master/demos/signin_demo.gif)
   
-
+  ## Adding Reminders
+  ![reminderdemo](https://github.com/joshuapocsidio/productiv/blob/master/demos/reminders_demo.gif)
+  
