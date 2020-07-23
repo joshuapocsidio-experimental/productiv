@@ -1,4 +1,4 @@
-#**PRODUCTIV** *(work in progress)*
+# **PRODUCTIV** *(work in progress)*
 
   This is a project to apply object oriented programming knowledge gained from university course into self-motivated and self-designed software program. 
   
